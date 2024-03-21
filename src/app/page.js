@@ -7,6 +7,7 @@ export default function Home() {
       <h2>Welcome</h2>
       Hello, WEB!
       <img src="/hello.png"></img>
+      // public 폴더 밑에 위치시키면 사용가능하다.
     </>
   );
 }

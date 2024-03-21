@@ -25,3 +25,8 @@ body {
   width: 100%;
   margin: 0 auto;
 }
+
+a {
+  text-decoration: none;
+  /* a태그의 밑줄을 없애기 */
+}
